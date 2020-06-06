@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Andreas242/apolloTestHMDB#readme",
   "dependencies": {
-    "apollo-server": "^2.9.0",
+    "apollo-server": "^2.14.2",
     "firebase-admin": "^8.4.0",
     "graphql": "^14.5.3",
     "graphql-tag": "^2.10.1"
